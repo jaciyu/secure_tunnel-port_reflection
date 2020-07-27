@@ -15,3 +15,8 @@
 
 【port_reflection 工作方式示意图】<br>
 ![image](https://raw.githubusercontent.com/wanpf/secure_tunnel-port_reflection/master/port_reflection.png)
+
+以上源码在 Apache License 许可下发布。
+【免责申明】
+本源码仅用于学习、阅读研究等。
+一切后果由使用者自行承担,作者不承担任何法律责任。
